@@ -1,8 +1,6 @@
 ### This is a trash project for bug checking
 
-    $ npm install eslint babel-eslint  
-    $ eslint-plugin-react
-
+    $ npm install eslint babel-eslint eslint-plugin-react
     $ eslint code.js code2.js
 
     code2.jsx
